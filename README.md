@@ -52,7 +52,7 @@
 
 
 ### My status
-[![Yang's github stats](https://github-readme-stats.vercel.app/api?username=ohhyangyang&show_icons=true)](https://github.com/ohhyangyang/github-readme-stats)
+<img align="left" alt="Yang's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ohhyangyang&show_icons=true&hide_border=true" />
 
 
 
