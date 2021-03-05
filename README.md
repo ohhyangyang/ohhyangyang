@@ -2,8 +2,7 @@
 
 ## I'm a Full-Stack Developer!! ##
 
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking for a job as Full-Stack or Frontend Developer, looking forward to growing my career with my team
+- 🌱 I’m currently learning React Native 
 - 🥅 2021 Goals: Contribute and make impact to my work team
 - ⚡ Fun fact: I was an architect, I love to draw, design and create ideas
 
