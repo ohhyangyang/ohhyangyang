@@ -35,3 +35,7 @@
 - Git & GitHub
 - Heroku
 
+
+[linkedin]: https://www.linkedin.com/in/yang-ge-bcn/
+[instagram]: https://www.instagram.com/ohhyangyang/
+
