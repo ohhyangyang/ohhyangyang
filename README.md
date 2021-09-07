@@ -2,16 +2,9 @@
 
 ## I'm a Full-Stack Developer!! ##
 
-- 🌱 I’m currently learning React Native 
-- 🥅 2021 Goals: Contribute and make impact to my work team
-- ⚡ Fun fact: I was an architect, I love to draw, design and create ideas
-
-### Some of my projects​ :file_folder: ###
-
-* [WUSIC (Frontend)](https://github.com/ohhyangyang/m3-wusic-client) & [WUSIC (Backend)](https://github.com/ohhyangyang/m3-wusic-server) : A project-based musician platform with MERN     Stack and REATful API.
-* [X-BOOK](https://github.com/ohhyangyang/m2-project-library): A book exchange platform with Server Side Rendering (SSR) technology.
-* [COSLIB](https://github.com/ohhyangyang/M1-Project): A online cosmetic library  with External API.
-* [MATACHANA HPO Tutorial](https://www.matachana.com/User-Help-Tools/HPO/1_Preparing-the-load_en.html) : A web of user help tutorial for MATACHANA products.
+- 🌱 I’m currently working at Unblockia 
+- 🥅 2021 Goals: Grow with my team
+- ⚡ Fun fact: I was an architect, means I can code and design
 
 ### Connect with me ###
 
@@ -27,35 +20,18 @@
 
 ### Languages and Tools ###
 
-- Visual Studio Code
-- HTML5 & CSS3
-- SASS
-- Bootstrap
-- JavaScript (ES6)
-- jQuery
+- SCSS & Bootstrap
+- JavaScript (ES6) & jQuery & TypeScript
+- Vue
 - React
+- Postman & AJAX
 - NodeJS
-- JSX
-- NPM
+- TypeOrm
 - ExpressJS
 - MongoDB & Mongoose
-- Server Side Rendering (SSR)
-- RESTful API
-- AJAX
-- Postman
 - PHP & MySQL
+- RESTful API
 - Wordpress
 - Git & GitHub
 - Heroku
 
-
-
-### My status
-<img align="left" alt="Yang's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ohhyangyang&show_icons=true&hide_border=true" />
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/yang-ge-bcn/
-[instagram]: https://www.instagram.com/ohhyangyang/
