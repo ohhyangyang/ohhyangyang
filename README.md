@@ -2,9 +2,9 @@
 
 ## I'm a Full-Stack Developer!! ##
 
-- 🌱 I’m currently working at Unblockia & Adpone
-- 🥅 2021 Goals: Grow with my team
-- ⚡ Fun fact: I was an architect, means I can code and design
+- 🌱 Currently learning Java
+- 🥅 never give up and keep growing
+- ⚡ Fun fact: I am a programmer / designer
 
 ### Connect with me ###
 
